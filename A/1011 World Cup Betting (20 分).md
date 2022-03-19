@@ -48,4 +48,57 @@ T T W 39.31
 接着，就依次遍历每行找出每行输入的最大值的位置，到最后输出其对应的字母，以及计算最终结果。
 
 ```c++
+#include<iostream>
+using namespace std;
+#include<iomanip> // 保留小数 
+int main()
+{
+    float arr[3][3]; // 存放输入数据 
+    int max;  // 过渡值 
+    int arrmax[3]; // 存放每行最大元素所在的位置 
+    /*以下为输入数据*/
+    for(int i = 0; i < 3; i++)
+    {
+        for(int j = 0; j < 3; j++)
+        {
+            cin >> arr[i][j];
+        }
+    }
+    /*以上为输入数据*/ 
+    for(int i = 0; i < 3; i++)
+    {
+        max = arr[i][0]; // 首先记录每行第一个元素为最大值 
+        arrmax[i] = 0; 
+        for(int j = 0; j < 3; j++)
+        {
+            if(arr[i][j] > max) // 遍历每行数组 找出每行元素最大值所在的位置 
+            {
+                max = arr[i][j];  
+                arrmax[i] = j;
+            }
+        }
+    }
+    
+    float sum = 1;
+    for(int i = 0; i < 3; i++)
+    {
+	    sum = sum  * arr[i][arrmax[i]];
+	    /*输出每行元素最大值所属位置的 对应的 字母*/
+        if(arrmax[i] == 0) 
+		{
+            cout << "W" << " ";
+		}
+        else if(arrmax[i] == 1)
+		{
+            cout << "T" << " ";
+		}
+        else 
+		{
+            cout << "L" << " ";
+		}
+    }
+    
+    sum = (sum * 0.65 - 1) * 2;
+    cout << fixed << setprecision(2) << sum << endl;  // 保留小数 
+}
 ```
