@@ -6,3 +6,4 @@
 -  [**1013 数素数 (20 分)** ](https://github.com/kt4ngw/PAT-/blob/main/B/1013%20%E6%95%B0%E7%B4%A0%E6%95%B0%20(20%20%E5%88%86).md).
 
 ## 🚩Advanced Level
+-  [**1011 World Cup Betting (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/A/1011%20World%20Cup%20Betting%20(20%20%E5%88%86).md).
