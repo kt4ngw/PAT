@@ -3,6 +3,7 @@
 此仓库记录个人PAT刷题记录，目前用C/C++
 
 ## 🚩Basic Level
+-  [**1004 成绩排名 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1004%20%E6%88%90%E7%BB%A9%E6%8E%92%E5%90%8D%20(20%20%E5%88%86).md).
 -  [**1013 数素数 (20 分)** ](https://github.com/kt4ngw/PAT-/blob/main/B/1013%20%E6%95%B0%E7%B4%A0%E6%95%B0%20(20%20%E5%88%86).md).
 -  [**1017 A除以B (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1017%20A%E9%99%A4%E4%BB%A5B%20(20%20%E5%88%86).md).
 -  [**1018 锤子剪刀布 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1018%20%E9%94%A4%E5%AD%90%E5%89%AA%E5%88%80%E5%B8%83%20(20%20%E5%88%86).md).
