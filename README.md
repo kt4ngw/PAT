@@ -11,4 +11,6 @@
 -  [**1041 考试座位号 (15 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1041%20%E8%80%83%E8%AF%95%E5%BA%A7%E4%BD%8D%E5%8F%B7%20(15%20%E5%88%86).md).
 
 ## 🚩Advanced Level
+
+-  [**1006 Sign In and Sign Out (25 分)** ](https://github.com/kt4ngw/PAT/blob/main/A/1006%20Sign%20In%20and%20Sign%20Out%20(25%20%E5%88%86).md).
 -  [**1011 World Cup Betting (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/A/1011%20World%20Cup%20Betting%20(20%20%E5%88%86).md).
