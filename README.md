@@ -8,8 +8,8 @@
 -  [**1013 数素数 (20 分)** ](https://github.com/kt4ngw/PAT-/blob/main/B/1013%20%E6%95%B0%E7%B4%A0%E6%95%B0%20(20%20%E5%88%86).md).
 -  [**1017 A除以B (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1017%20A%E9%99%A4%E4%BB%A5B%20(20%20%E5%88%86).md).
 -  [**1018 锤子剪刀布 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1018%20%E9%94%A4%E5%AD%90%E5%89%AA%E5%88%80%E5%B8%83%20(20%20%E5%88%86).md).
--  [**1018 锤子剪刀布 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1018%20%E9%94%A4%E5%AD%90%E5%89%AA%E5%88%80%E5%B8%83%20(20%20%E5%88%86).md).
 -  [**1022 D进制的A+B (20 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/B/1022%20D%E8%BF%9B%E5%88%B6%E7%9A%84A%2BB%20(20%20point(s)).md).
+-  [**1041 考试座位号 (15 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1041%20%E8%80%83%E8%AF%95%E5%BA%A7%E4%BD%8D%E5%8F%B7%20(15%20%E5%88%86).md).
 
 ## 🚩Advanced Level
 
