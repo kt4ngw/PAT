@@ -17,4 +17,5 @@
 -  [**1006 Sign In and Sign Out (25 分)** ](https://github.com/kt4ngw/PAT/blob/main/A/1006%20Sign%20In%20and%20Sign%20Out%20(25%20%E5%88%86).md).
 -  [**1011 World Cup Betting (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/A/1011%20World%20Cup%20Betting%20(20%20%E5%88%86).md).
 -  [**1019 General Palindromic Number (20 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/A/1019%20General%20Palindromic%20Number%20(20%20point(s)).md).
+-  [**1027 Colors in Mars (20 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/A/1027 Colors in Mars (20 point(s)).md).
 -  [**1036 Boys vs Girls (25 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/A/1036%20Boys%20vs%20Girls%20(25%20point(s)).md).
