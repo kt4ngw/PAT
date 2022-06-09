@@ -12,6 +12,7 @@
 -  [**1022 D进制的A+B (20 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/B/1022%20D%E8%BF%9B%E5%88%B6%E7%9A%84A%2BB%20(20%20point(s)).md).
 -  [**1037 在霍格沃茨找零钱 (20 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/B/1037%20%E5%9C%A8%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E6%89%BE%E9%9B%B6%E9%92%B1%20(20%20point(s)).md).
 -  [**1041 考试座位号 (15 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1041%20%E8%80%83%E8%AF%95%E5%BA%A7%E4%BD%8D%E5%8F%B7%20(15%20%E5%88%86).md).
+-  [**1061 判断题 (15 分)**](https://github.com/kt4ngw/PAT/blob/main/B/1061%20%E5%88%A4%E6%96%AD%E9%A2%98%20(15%20%E5%88%86).md).
 
 ## 🚩Advanced Level
 
