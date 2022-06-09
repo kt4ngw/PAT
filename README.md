@@ -1,6 +1,7 @@
 # [PAT](https://www.patest.cn/)-在线程序设计平台.
 
-此仓库记录个人PAT刷题记录，目前用C/C++
+此仓库记录个人PAT刷题记录，目前用C/C++，未来会用其他编程语言，共勉！
+This repository records personal PAT brushing records. Currently, C/C++ is used, and other programming languages will be used in the future. Let’s encourage each other!
 
 ## 🚩Basic Level
 -  [**1001 害死人不偿命的(3n+1)猜想** ](https://github.com/kt4ngw/PAT/blob/main/B/1001%20%E5%AE%B3%E6%AD%BB%E4%BA%BA%E4%B8%8D%E5%81%BF%E5%91%BD%E7%9A%84(3n%2B1)%E7%8C%9C%E6%83%B3%20(15%20%E5%88%86).md).
