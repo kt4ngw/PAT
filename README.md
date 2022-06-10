@@ -1,10 +1,26 @@
 # [PAT](https://www.patest.cn/)-在线程序设计平台.
 
+CN:
+
 编写PAT程序设计上的题目，欢迎小🔥伴一起. yeah!
 
 此仓库记录个人PAT刷题记录，目前用C/C++，未来会用其他编程语言，共勉！
 
+- github会最先更新编码记录，其他博客（如个人、CSDN等会滞后）
+- 如有不当之处，请邮件指正！
+
+EN:
+
+Write the topic of PAT programming, welcome to join us. yeah!
+
 This repository records personal PAT brushing records. Currently, C/C++ is used, and other programming languages will be used in the future. Let’s encourage each other!
+
+- github will update the coding record first, other blogs (such as personal, CSDN, etc. will lag)
+- If there is anything inappropriate, please correct me by email!
+
+
+
+
 
 ## 🚩Basic Level
 -  [**1001 害死人不偿命的(3n+1)猜想 (15 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1001%20%E5%AE%B3%E6%AD%BB%E4%BA%BA%E4%B8%8D%E5%81%BF%E5%91%BD%E7%9A%84(3n%2B1)%E7%8C%9C%E6%83%B3%20(15%20%E5%88%86).md).
