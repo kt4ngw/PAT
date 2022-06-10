@@ -1,5 +1,7 @@
 # [PAT](https://www.patest.cn/)-在线程序设计平台.
 
+## 1 简介（Introduction）
+
 CN:
 
 编写PAT程序设计上的题目，欢迎小🔥伴一起. yeah!
@@ -23,7 +25,11 @@ This repository records personal PAT brushing records. Currently, C/C++ is used,
 - There are two levels of PAT, Basic Level and Advanced Level。
 
 
-## 🚩Basic Level
+
+##  2 分等级
+
+
+### 🚩Basic Level
 -  [**1001 害死人不偿命的(3n+1)猜想 (15 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1001%20%E5%AE%B3%E6%AD%BB%E4%BA%BA%E4%B8%8D%E5%81%BF%E5%91%BD%E7%9A%84(3n%2B1)%E7%8C%9C%E6%83%B3%20(15%20%E5%88%86).md).
 -  [**1002 写出这个数 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1002%20%E5%86%99%E5%87%BA%E8%BF%99%E4%B8%AA%E6%95%B0%20(20%20%E5%88%86).md).
 -  [**1004 成绩排名 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1004%20%E6%88%90%E7%BB%A9%E6%8E%92%E5%90%8D%20(20%20%E5%88%86).md).
@@ -41,7 +47,7 @@ This repository records personal PAT brushing records. Currently, C/C++ is used,
 -  [**1041 考试座位号 (15 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1041%20%E8%80%83%E8%AF%95%E5%BA%A7%E4%BD%8D%E5%8F%B7%20(15%20%E5%88%86).md).
 -  [**1061 判断题 (15 分)**](https://github.com/kt4ngw/PAT/blob/main/B/1061%20%E5%88%A4%E6%96%AD%E9%A2%98%20(15%20%E5%88%86).md).
 
-## 🚩Advanced Level
+### 🚩Advanced Level
 
 -  [**1006 Sign In and Sign Out (25 分)** ](https://github.com/kt4ngw/PAT/blob/main/A/1006%20Sign%20In%20and%20Sign%20Out%20(25%20%E5%88%86).md).
 -  [**1011 World Cup Betting (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/A/1011%20World%20Cup%20Betting%20(20%20%E5%88%86).md).
