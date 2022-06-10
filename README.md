@@ -6,7 +6,7 @@ CN:
 
 此仓库记录个人PAT刷题记录，目前用C/C++，未来会用其他编程语言，共勉！
 
-- github会最先更新编码记录，其他博客（如个人、CSDN等会滞后）
+- github会最先更新编码记录，其他博客（如个人、CSDN等）会滞后。
 - 如有不当之处，请邮件指正！
 
 EN:
@@ -15,7 +15,7 @@ Write the topic of PAT programming, welcome to join us. yeah!
 
 This repository records personal PAT brushing records. Currently, C/C++ is used, and other programming languages will be used in the future. Let’s encourage each other!
 
-- github will update the coding record first, other blogs (such as personal, CSDN, etc. will lag)
+- github will update the coding record first, other blogs (such as personal, CSDN, etc.) will lag.
 - If there is anything inappropriate, please correct me by email!
 
 
