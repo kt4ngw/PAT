@@ -17,8 +17,10 @@ This repository records personal PAT brushing records. Currently, C/C++ is used,
 -  [**1013 数素数 (20 分)** ](https://github.com/kt4ngw/PAT-/blob/main/B/1013%20%E6%95%B0%E7%B4%A0%E6%95%B0%20(20%20%E5%88%86).md).
 -  [**1017 A除以B (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1017%20A%E9%99%A4%E4%BB%A5B%20(20%20%E5%88%86).md).
 -  [**1018 锤子剪刀布 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1018%20%E9%94%A4%E5%AD%90%E5%89%AA%E5%88%80%E5%B8%83%20(20%20%E5%88%86).md).
--  [**1022 D进制的A+B (20 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/B/1022%20D%E8%BF%9B%E5%88%B6%E7%9A%84A%2BB%20(20%20point(s)).md).
--  [**1037 在霍格沃茨找零钱 (20 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/B/1037%20%E5%9C%A8%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E6%89%BE%E9%9B%B6%E9%92%B1%20(20%20point(s)).md).
+-  [**1022 D进制的A+B (20 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/B/1022%20D%E8%BF%9B%E5%88%B6%E7%9A%84A%2BB%20(20%20point(s).md).
+-  [**1032 挖掘机技术哪家强 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1032%20%E6%8C%96%E6%8E%98%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%93%AA%E5%AE%B6%E5%BC%BA%20(20%20%E5%88%86).md).
+-  [**1036 跟奥巴马一起编程 (15 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1036%20%E8%B7%9F%E5%A5%A5%E5%B7%B4%E9%A9%AC%E4%B8%80%E8%B5%B7%E7%BC%96%E7%A8%8B%20(15%20%E5%88%86)%20.md).
+-  [**1037 在霍格沃茨找零钱 (20 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/B/1037%20%E5%9C%A8%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E6%89%BE%E9%9B%B6%E9%92%B1%20(20%20point(s).md).
 -  [**1041 考试座位号 (15 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1041%20%E8%80%83%E8%AF%95%E5%BA%A7%E4%BD%8D%E5%8F%B7%20(15%20%E5%88%86).md).
 -  [**1061 判断题 (15 分)**](https://github.com/kt4ngw/PAT/blob/main/B/1061%20%E5%88%A4%E6%96%AD%E9%A2%98%20(15%20%E5%88%86).md).
 
