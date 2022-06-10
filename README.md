@@ -6,8 +6,11 @@ CN:
 
 此仓库记录个人PAT刷题记录，目前用C/C++，未来会用其他编程语言，共勉！
 
+
+
 - github会最先更新编码记录，其他博客（如个人、CSDN等）会滞后。
 - 如有不当之处，请邮件指正！
+- PAT有两个等级，乙级和甲级。
 
 EN:
 
@@ -17,9 +20,7 @@ This repository records personal PAT brushing records. Currently, C/C++ is used,
 
 - github will update the coding record first, other blogs (such as personal, CSDN, etc.) will lag.
 - If there is anything inappropriate, please correct me by email!
-
-
-
+- There are two levels of PAT, Basic Level and Advanced Level。
 
 
 ## 🚩Basic Level
