@@ -38,6 +38,7 @@ This repository records personal PAT brushing records. Currently, C/C++ is used,
 -  [**1008 数组元素循环右移问题 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1008%20%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E5%BE%AA%E7%8E%AF%E5%8F%B3%E7%A7%BB%E9%97%AE%E9%A2%98%20(20%20%E5%88%86).md).
 -  [**1009 说反话 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1009%20%E8%AF%B4%E5%8F%8D%E8%AF%9D%20(20%20%E5%88%86).md).
 -  [**1013 数素数 (20 分)** ](https://github.com/kt4ngw/PAT-/blob/main/B/1013%20%E6%95%B0%E7%B4%A0%E6%95%B0%20(20%20%E5%88%86).md).
+-  [**1014 福尔摩斯的约会 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1014%20%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E7%9A%84%E7%BA%A6%E4%BC%9A%20(20%20%E5%88%86).md).
 -  [**1017 A除以B (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1017%20A%E9%99%A4%E4%BB%A5B%20(20%20%E5%88%86).md).
 -  [**1018 锤子剪刀布 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1018%20%E9%94%A4%E5%AD%90%E5%89%AA%E5%88%80%E5%B8%83%20(20%20%E5%88%86).md).
 -  [**1022 D进制的A+B (20 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/B/1022%20D%E8%BF%9B%E5%88%B6%E7%9A%84A%2BB%20(20%20point(s)).md).
