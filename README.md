@@ -45,7 +45,7 @@ This repository records personal PAT brushing records. Currently, C/C++ is used,
 -  [**1032 挖掘机技术哪家强 (20 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1032%20%E6%8C%96%E6%8E%98%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%93%AA%E5%AE%B6%E5%BC%BA%20(20%20%E5%88%86).md).
 -  [**1036 跟奥巴马一起编程 (15 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1036%20%E8%B7%9F%E5%A5%A5%E5%B7%B4%E9%A9%AC%E4%B8%80%E8%B5%B7%E7%BC%96%E7%A8%8B%20(15%20%E5%88%86)%20.md).
 -  [**1037 在霍格沃茨找零钱 (20 point(s))** ](https://github.com/kt4ngw/PAT/blob/main/B/1037%20%E5%9C%A8%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E6%89%BE%E9%9B%B6%E9%92%B1%20(20%20point(s)).md).
--  [**1038 统计同成绩学生(20 分)**](https://github.com/kt4ngw/PAT/blob/main/B/1038%20%E7%BB%9F%E8%AE%A1%E5%90%8C%E6%88%90%E7%BB%A9%E5%AD%A6%E7%94%9F%20(15%20%E5%88%86).md).
+-  [**1038 统计同成绩学生(20 分)**](https://github.com/kt4ngw/PAT/blob/main/B/1038%20%E7%BB%9F%E8%AE%A1%E5%90%8C%E6%88%90%E7%BB%A9%E5%AD%A6%E7%94%9F%20(20%20%E5%88%86).md).
 -  [**1041 考试座位号 (15 分)** ](https://github.com/kt4ngw/PAT/blob/main/B/1041%20%E8%80%83%E8%AF%95%E5%BA%A7%E4%BD%8D%E5%8F%B7%20(15%20%E5%88%86).md).
 -  [**1061 判断题 (15 分)**](https://github.com/kt4ngw/PAT/blob/main/B/1061%20%E5%88%A4%E6%96%AD%E9%A2%98%20(15%20%E5%88%86).md).
 
